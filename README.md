@@ -2,7 +2,9 @@ Project Overview: To implement the face filter function used in Instagram or cam
 
 Used package: opencv , numpy , mediapipe 
 
-How to execute it: 1. Prepare a laptop with a webcam.
+How to execute it: 
+
+                   1. Prepare a laptop with a webcam.
 
                    2. Place it in the center of the user's face.
                    
