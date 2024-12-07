@@ -1,4 +1,4 @@
-## Project Overview: To implement the face filter function used in Instagram or camera apps.
+## Project Overview: To implement the face filter function used in Instagram or camera apps. ##
 
 Used package: opencv , numpy , mediapipe
 ---
