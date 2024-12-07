@@ -15,11 +15,11 @@ How to execute it:
 <reference>
 How to use mediapipe:  
   
-                       1. https://iambeginnerdeveloper.tistory.com/266
+                       1. <https://iambeginnerdeveloper.tistory.com/266>
   
-                       2. https://puleugo.tistory.com/4
+                       2. <https://puleugo.tistory.com/4>
                        
-                       3. https://velog.io/@jmhu0410/mediapipe-%EC%96%BC%EA%B5%B4-%EC%9D%B8%EC%8B%9D
+                       3. <https://velog.io/@jmhu0410/mediapipe-%EC%96%BC%EA%B5%B4-%EC%9D%B8%EC%8B%9D>
 
 
 
